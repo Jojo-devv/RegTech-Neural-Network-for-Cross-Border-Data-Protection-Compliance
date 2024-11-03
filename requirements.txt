@@ -5,3 +5,5 @@ tensorflow==2.5.0
 sqlalchemy==1.4.22
 pyyaml==5.4.1
 requests==2.26.0
+python-dotenv==0.21.0
+
