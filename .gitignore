@@ -1,0 +1,46 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environment folders
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Compiled files
+*.so
+*.egg-info/
+*.egg
+
+# Logs
+*.log
+logs/
+
+# Data files
+data/raw/
+data/processed/
+*.csv
+
+# Model files
+models/
+*.h5
+*.pkl
+
+# Configuration files containing sensitive information
+config/config.yaml
+*.env
+
+# IDE specific files
+.vscode/
+.idea/
+
+# MacOS specific files
+.DS_Store
+
+# Windows specific files
+Thumbs.db
